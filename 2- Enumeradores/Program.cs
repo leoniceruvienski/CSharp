@@ -36,7 +36,7 @@ namespace Enumeradores
         }
     }
 
-    enum EProductType{
+    enum EProductType{ // enumeradores devem ficar no mesmo nível que as classes
         Product = 1,
         Service = 2
     }
