@@ -1,0 +1,13 @@
+/home/leonice/Desktop/c#/Cronometro/bin/Debug/netcoreapp3.1/Cronometro
+/home/leonice/Desktop/c#/Cronometro/bin/Debug/netcoreapp3.1/Cronometro.deps.json
+/home/leonice/Desktop/c#/Cronometro/bin/Debug/netcoreapp3.1/Cronometro.runtimeconfig.json
+/home/leonice/Desktop/c#/Cronometro/bin/Debug/netcoreapp3.1/Cronometro.runtimeconfig.dev.json
+/home/leonice/Desktop/c#/Cronometro/bin/Debug/netcoreapp3.1/Cronometro.dll
+/home/leonice/Desktop/c#/Cronometro/bin/Debug/netcoreapp3.1/Cronometro.pdb
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.csprojAssemblyReference.cache
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.AssemblyInfoInputs.cache
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.AssemblyInfo.cs
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.csproj.CoreCompileInputs.cache
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.dll
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.pdb
+/home/leonice/Desktop/c#/Cronometro/obj/Debug/netcoreapp3.1/Cronometro.genruntimeconfig.cache
