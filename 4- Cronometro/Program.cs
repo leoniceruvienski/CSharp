@@ -35,7 +35,7 @@ namespace Cronometro
         static void PreStart(int time){
             Console.Clear();
             Console.WriteLine("Preparar...");
-            Thread.Sleep(1000);
+            Thread.Sleep(1000); //Esperar um milesimo de segundo
             Console.WriteLine("Apontar...");
             Thread.Sleep(1000);
             Console.WriteLine("Fogo...");
