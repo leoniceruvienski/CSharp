@@ -1,0 +1,13 @@
+/home/leonice/Desktop/c#/Editor/bin/Debug/netcoreapp3.1/Editor
+/home/leonice/Desktop/c#/Editor/bin/Debug/netcoreapp3.1/Editor.deps.json
+/home/leonice/Desktop/c#/Editor/bin/Debug/netcoreapp3.1/Editor.runtimeconfig.json
+/home/leonice/Desktop/c#/Editor/bin/Debug/netcoreapp3.1/Editor.runtimeconfig.dev.json
+/home/leonice/Desktop/c#/Editor/bin/Debug/netcoreapp3.1/Editor.dll
+/home/leonice/Desktop/c#/Editor/bin/Debug/netcoreapp3.1/Editor.pdb
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.csprojAssemblyReference.cache
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.AssemblyInfoInputs.cache
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.AssemblyInfo.cs
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.csproj.CoreCompileInputs.cache
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.dll
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.pdb
+/home/leonice/Desktop/c#/Editor/obj/Debug/netcoreapp3.1/Editor.genruntimeconfig.cache
